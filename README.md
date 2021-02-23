@@ -1,0 +1,2 @@
+# NewsUpdateThing
+News Update generator
